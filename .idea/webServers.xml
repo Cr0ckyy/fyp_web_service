@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e40bc492-b17f-4681-9fc1-2de846e10253" name="XAMPP" url="http://localhost/fyp_web_service">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\fyp_web_service" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
